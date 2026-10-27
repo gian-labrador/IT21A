@@ -23,7 +23,7 @@ class Manager extends Employee {
 
     void displayInfo() {
         System.out.println("=== EMPLOYEE INFORMATION ===");
-        System.out.println("Name: " + name + " Employee Id: " + employeeId + " Salary: " + salary);
+        System.out.println("Name: " + name +  " Employee Id: " + employeeId + " Salary: " + salary);
     }
 
     void displayInfo1() {
